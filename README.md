@@ -2,6 +2,8 @@
 
 Task warrior pomodoro tool
 
+__This is my first Python project, if you think there is a more Pythonic way of doing thing. Please drop me a line on mastodon : sinarf@framapiaf.org, or create an issue.__
+
 ## Intention of the project
 
 - having a way to use and track pomodoros in taskwarrior.
